@@ -9,3 +9,6 @@ cp -r ../.config/rofi .config
 cp -r ../.config/sing-box .config
 cp -r ../.config/background .config
 cp -r ../.config/hypr .config
+git add .
+git commit -am "Updated"
+git push
