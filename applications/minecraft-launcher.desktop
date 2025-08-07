@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Minecraft Launcher
+Comment=Official Minecraft Launcher
+Exec=minecraft-launcher.sh
+Icon=/home/fedos/.minecraft/icon.png
+Terminal=false
+Categories=Game;Application;
+StartupNotify=true

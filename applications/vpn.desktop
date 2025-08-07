@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=VPN
+Exec=/home/fedos/.config/sing-box/vpn.sh
+Icon=/home/fedos/.config/sing-box/vpn.png
+Terminal=false
+Categories=Game;Application;
+StartupNotify=true

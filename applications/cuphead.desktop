@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Cuphead
+Exec=/home/fedos/.cuphead/cuphead.sh
+Icon=/home/fedos/.cuphead/icon.png
+Terminal=false
+Categories=Game;Application;
+StartupNotify=true
